@@ -5,7 +5,8 @@ Este proyecto surge de la necesidad de realizar un seguimiento detallado y compa
 
 ## 📊 Dashboard Final
 
-![Dashboard](dashboard.png)
+![Análisis de Inscripciones 2024 vs 2025](<img width="1049" height="602" alt="dashboard" src="https://github.com/user-attachments/assets/937f168e-2799-44e0-80a6-919ddde5eca0" />)
+
 
 ---
 
