@@ -3,6 +3,9 @@
 ##  Descripción del Proyecto
 Este proyecto surge de la necesidad de realizar un seguimiento detallado y comparativo de las inscripciones para un evento deportivo con **35 años de trayectoria**. El objetivo principal fue validar si el ritmo de captación de participantes en **2025** superaba al de **2024**, proporcionando evidencia basada en datos para la toma de decisiones logísticas.
 
+##  Dashboard Final
+![Dashboard](dashboard.png)
+
 ---
 
 ##  Insights y Resultados Clave
